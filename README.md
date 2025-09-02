@@ -31,7 +31,13 @@ scaling behavior and the practical benefits of each technique.
 
 Our labs run on **K1/X60 SoC** from **SpacemiT** and **Muse-Pi-Pro board** from this company.
 
+![alt text](pictures/muse-pi-pro.jpg)
 
+As we can see on the following architectural block scheme, K1 is a powerfull SoC that implements 8 RISC-V cores 
+in two 4-core clusters
+Each core contains standrad vector processing unit operating on 256-bit vectors.
 
 
 ![alt text](pictures/muse-pi-pro.jpg)
+
+
