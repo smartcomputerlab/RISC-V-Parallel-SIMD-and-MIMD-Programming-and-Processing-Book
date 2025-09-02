@@ -29,3 +29,5 @@ using the π example. Finally, we demonstrate combined **MIMD×SIMD** approaches
 and matrix multiplication. In all cases, we report speedups as a function of problem size to highlight
 scaling behavior and the practical benefits of each technique.
 
+
+![alt text](../Pictures/img.png)
