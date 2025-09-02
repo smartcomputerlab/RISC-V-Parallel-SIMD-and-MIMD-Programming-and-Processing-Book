@@ -30,4 +30,4 @@ and matrix multiplication. In all cases, we report speedups as a function of pro
 scaling behavior and the practical benefits of each technique.
 
 
-![alt text](../Pictures/img.png)
+![alt text](pictures/muse-pi-pro.jpg)
