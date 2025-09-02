@@ -38,6 +38,6 @@ in two 4-core clusters
 Each core contains standrad vector processing unit operating on 256-bit vectors.
 
 
-![alt text](pictures/muse-pi-pro.jpg)
+![alt text](pictures/RV.K1.X60.spacemit.block.png)
 
 
