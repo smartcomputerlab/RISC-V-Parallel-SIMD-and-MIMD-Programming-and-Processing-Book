@@ -35,7 +35,7 @@ Our labs run on **K1/X60 SoC** from **SpacemiT** and **Muse-Pi-Pro board** fromÂ
 
 As we can see on the following architectural block scheme, K1 is a powerfull SoC that implements 8 RISC-V cores 
 in two 4-core clusters
-Each core contains standrad vector processing unit operating on 256-bit vectors.
+Each RV64GCVB core contains standard vector processing unit operating on 256-bit vectors.
 
 
 ![alt text](pictures/RV.K1.X60.spacemit.block.png)
